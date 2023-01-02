@@ -30,3 +30,6 @@ ZSH_THEME="tree-zsh/tree-cool"
 ```bash
 source ~/.zshrc
 ```
+
+## Credits
+All [work done](https://github.com/OtterArkar/otter-zsh) by 🦦's.
