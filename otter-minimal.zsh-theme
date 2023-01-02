@@ -1,5 +1,5 @@
-if [[ -z $ZSH_THEME_OTTER_PREFIX ]]; then
-    ZSH_THEME_OTTER_PREFIX=" %{$fg[green]%}🦦$resetColor$resetColor"
+if [[ -z $ZSH_THEME_TREE_PREFIX ]]; then
+    ZSH_THEME_TREE_PREFIX=" %{$fg[green]%}🌳$resetColor$resetColor"
 fi
 
 PROMPT='%{$fg_bold[cyan]%}$ZSH_THEME_OTTER_PREFIX %{$fg_bold[#457af5]%} %{$fg[#457af5]%}%c %{$fg_bold[cyan]%}$(git_prompt_info)%{$fg_bold[blue]%} % %{$reset_color%}'

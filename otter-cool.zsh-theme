@@ -27,7 +27,7 @@ fi
 
 local return_code="%(?..%F{red}%? ↵%f)"
 
-local user_host=" 🦦  ${PR_USER}%F{#457af5}@${PR_HOST}"
+local user_host=" 🌳  ${PR_USER}%F{#457af5}@${PR_HOST}"
 local current_dir="%B%F{#457af5}%~%f%b"
 local git_branch='$(git_prompt_info)'
 
