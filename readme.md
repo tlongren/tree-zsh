@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/tlongren/tree-zsh ~/.oh-my-zsh/custom/themes
+git clone https://github.com/tlongren/tree-zsh ~/.oh-my-zsh/custom/themes/tree-zsh
 
 ```
 
