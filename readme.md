@@ -20,11 +20,11 @@ git clone https://github.com/tlongren/tree-zsh ~/.oh-my-zsh/custom/themes/tree-z
 then edit your _.zshrc_ file:
 
 ```bash
-ZSH_THEME="tree-minimal"
+ZSH_THEME="tree-zsh/tree-minimal"
 
 or
 
-ZSH_THEME="tree-cool"
+ZSH_THEME="tree-zsh/tree-cool"
 ```
 
 ```bash
