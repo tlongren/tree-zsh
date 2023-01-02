@@ -2,8 +2,8 @@
 
 🌳 Just another zsh theme for [Trees](https://www.fs.usda.gov/learn/trees).
 
-![zsh-tree-cool](https://github.com/tlongren/tree-zsh/blob/main/images/tree-cool.png)
-![zsh-tree-minimal](https://github.com/tlongren/tree-zsh/blob/main/images/tree-minimal.png)
+![zsh-tree-cool](https://github.com/tlongren/tree-zsh/blob/main/images/tree-zsh-cool.png)
+![zsh-tree-minimal](https://github.com/tlongren/tree-zsh/blob/main/images/tree-zsh-minimal.png)
 
 
 ## Make sure you install
