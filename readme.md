@@ -8,7 +8,7 @@
 
 ## Make sure you install
 
-- [on-my-zsh](https://ohmyz.sh/)
+- [oh-my-zsh](https://ohmyz.sh/)
 
 ## Install
 
