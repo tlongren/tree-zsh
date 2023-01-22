@@ -8,7 +8,7 @@
 
 ## Make sure you install
 
-- [oh-my-zsh](https://ohmyz.sh/)
+- [on-my-zsh](https://ohmyz.sh/)
 
 ## Install
 
@@ -21,9 +21,11 @@ then edit your _.zshrc_ file:
 
 ```bash
 ZSH_THEME="tree-zsh/tree-minimal"
+````
 
 or
 
+```bash
 ZSH_THEME="tree-zsh/tree-cool"
 ```
 
